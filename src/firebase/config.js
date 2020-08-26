@@ -7,7 +7,7 @@ var firebaseConfig = {
     authDomain: `${process.env.AUTH_DOMAIN}`,
     databaseURL: `${process.env.DATABASE_URL}`,
     projectId: `fire-gram-1cdde`,
-    storageBucket: `${process.env.STORAGE_BUCKET}`,
+    storageBucket: `fire-gram-1cdde.appspot.com`,
     messagingSenderId: `${process.env.MESSAGING_SENDER_ID}`,
     appId: `${process.env.API_ID}`
   };
