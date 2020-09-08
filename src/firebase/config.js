@@ -9,7 +9,7 @@ var firebaseConfig = {
     projectId: `fire-gram-1cdde`,
     storageBucket: `fire-gram-1cdde.appspot.com`,
     messagingSenderId: `${process.env.MESSAGING_SENDER_ID}`,
-    appId: `${process.env.API_ID}`
+    appId: `${process.env.APP_ID}`
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
