@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00e6553d472ff18e7019d398b29e3285",
+    "revision": "f4815c437f1f3276f2b97b2f345ef945",
     "url": "/Artfolio/index.html"
   },
   {
-    "revision": "8ab4a1f99cdea03b6294",
+    "revision": "e0b2cd889870286e3fb1",
     "url": "/Artfolio/static/css/main.e72a7eea.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Artfolio/static/js/2.a4979c9d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8ab4a1f99cdea03b6294",
-    "url": "/Artfolio/static/js/main.4a2b9e5c.chunk.js"
+    "revision": "e0b2cd889870286e3fb1",
+    "url": "/Artfolio/static/js/main.d20085a3.chunk.js"
   },
   {
     "revision": "40782bc006c5dc771ad4",
